@@ -1,1 +1,0 @@
-To jest nowy plik tekstowy na potrzeby merge
