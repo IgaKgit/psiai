@@ -1,4 +1,2 @@
 To jest pierwsza linijka mojego pliku(do zademonstrowania git add oraz git commit)
-Druga linia na potrzeby git resetaaa
-Trzecia linia git merge
-Czwarta linia konflikt
+Konfliktu ciąg dalszy
