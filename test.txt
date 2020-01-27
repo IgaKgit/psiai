@@ -1,2 +1,7 @@
 To jest pierwsza linijka mojego pliku(do zademonstrowania git add oraz git commit)
+Próba naprawy gita
+<<<<<<< HEAD
 Konfliktu ciąg dalszy
+=======
+Proba wywołania konfliktu
+>>>>>>> 9086722bb4ea04ae9b65ec929fc972b5825986c1
